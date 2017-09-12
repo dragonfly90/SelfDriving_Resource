@@ -7,3 +7,7 @@
 [deepTest](https://github.com/deeplearningTest/deepTest)
 
 [openpilot](https://github.com/commaai/openpilot)
+
+## China companies
+
+Driva.ai、百度、蔚来汽车、AutoX、Plus.ai、Nuro、Pony.ai、图森和景驰
