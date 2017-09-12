@@ -5,3 +5,5 @@
 [Deep Tesla](https://github.com/lexfridman/deeptesla)
 
 [deepTest](https://github.com/deeplearningTest/deepTest)
+
+[openpilot](https://github.com/commaai/openpilot)
