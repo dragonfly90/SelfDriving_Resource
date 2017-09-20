@@ -10,4 +10,37 @@
 
 ## China companies
 
-Driva.ai、百度、蔚来汽车、AutoX、Plus.ai、Nuro、Pony.ai、图森和景驰
+Drive.ai、百度、蔚来汽车、AutoX、Plus.ai、Nuro、
+
+Momenta
+
+https://www.leiphone.com/news/201611/jHvQau6r3aqz5DeP.html
+
+http://www.iheima.com/zixun/2017/0725/164285.shtml
+
+https://github.com/hujie-frank/SENet
+
+
+Pony.ai
+
+http://news.163.com/17/0919/11/CUMM4RKJ00018AOR.html
+
+图森
+
+http://www.sohu.com/a/161929829_403354
+
+景驰
+
+http://tech.caijing.com.cn/20170919/4333935.shtml
+
+驭势科技
+
+http://www.sohu.com/a/168167120_99985415
+
+Drive.ai
+
+http://www.iheima.com/zixun/2017/0628/163824.shtml
+
+蔚来汽车
+
+http://pe.pedaily.cn/201703/20170316410118.shtml
