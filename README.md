@@ -44,3 +44,9 @@ http://www.iheima.com/zixun/2017/0628/163824.shtml
 蔚来汽车
 
 http://pe.pedaily.cn/201703/20170316410118.shtml
+
+Problems
+
+http://www.businessinsider.com/autonomous-car-limitations-2016-8/#1-driverless-cars-struggle-going-over-bridges-1
+
+https://spectrum.ieee.org/cars-that-think/transportation/self-driving/the-2578-problems-with-self-driving-cars
