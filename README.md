@@ -45,6 +45,10 @@ http://www.iheima.com/zixun/2017/0628/163824.shtml
 
 http://pe.pedaily.cn/201703/20170316410118.shtml
 
+小鹏汽车
+
+https://www.leiphone.com/news/201710/Y01S1y6AnaNgFq1V.html
+
 Problems
 
 http://www.businessinsider.com/autonomous-car-limitations-2016-8/#1-driverless-cars-struggle-going-over-bridges-1
