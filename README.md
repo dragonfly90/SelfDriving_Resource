@@ -61,6 +61,18 @@ http://pe.pedaily.cn/201703/20170316410118.shtml
 
 https://www.leiphone.com/news/201710/Y01S1y6AnaNgFq1V.html
 
+Auto X
+
+http://www.autox.ai/ 
+
+Algo AI
+
+https://www.argo.ai/ 
+
+mobileye　
+
+http://www.mobileye.com/
+
 Problems
 
 http://www.businessinsider.com/autonomous-car-limitations-2016-8/#1-driverless-cars-struggle-going-over-bridges-1
